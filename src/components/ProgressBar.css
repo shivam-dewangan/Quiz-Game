@@ -1,0 +1,30 @@
+/* Progress bar container */
+.progress-container {
+    width: 100%;
+    height: 18px;
+    background-color: #e0e0e0;  /* Light gray background for minimal look */
+    border-radius: 50px;  /* Fully rounded corners for a pill shape */
+    margin: 15px 0;
+    overflow: hidden;  /* Ensures the progress bar doesn’t overflow the container */
+}
+
+/* Progress bar fill */
+.progress {
+    height: 100%;
+    background-color: #76c7c0;  /* Soft teal green color */
+    border-radius: 50px;  /* Matches container's fully rounded corners */
+    transition: width 0.3s ease-out;  /* Smooth animation */
+}
+
+/* Text overlay for progress */
+.progress-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;  /* White text for visibility */
+    font-size: 14px;
+    font-weight: bold;
+    z-index: 1;  /* Keeps text on top */
+    letter-spacing: 0.5px;  /* Slight spacing for readability */
+}

@@ -98,5 +98,6 @@ Contributions are welcome! If you want to contribute to the development of this 
 - Thanks to the [React](https://reactjs.org/) community for their fantastic framework.
 - Special thanks to the quiz API provider for providing the data for quiz questions.
 
-- ##DEPLOYED PROJECT LINK
+-
+ ##DEPLOYED PROJECT LINK
 - -https://localgame-testline.netlify.app/

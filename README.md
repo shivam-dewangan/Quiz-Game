@@ -69,7 +69,8 @@ Make sure you have the following installed:
 
 Here are some screenshots showing the app's user interface:
 
-![Home Page Screenshot](./src/assets/Quiz%20Game%20-%20Google%20Chrome%202_1_2025%209_56_15%20PM.png , frontend\src\assets\Quiz Game - Google Chrome 2_1_2025 9_56_36 PM.png)
+![Home Page Screenshot](./src/assets/Quiz%20Game%20-%20Google%20Chrome%202_1_2025%209_56_15%20PM.png)
+![Home Page Screenshot](frontend\src\assets\Quiz Game - Google Chrome 2_1_2025 9_56_36 PM.png)
 
 ### Video Walkthrough:
 

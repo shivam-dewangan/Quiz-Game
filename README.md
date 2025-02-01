@@ -41,22 +41,16 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/quiz-fun-app.git
+   git clone https://github.com/shivam-dewangan/Quiz-Game.git
    ```
 
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd quiz-fun-app
-   ```
-
-3. **Install dependencies**:
+2. **Install dependencies**:
 
    ```bash
    npm install
    ```
 
-4. **Start the project**:
+3. **Start the project**:
 
    ```bash
    npm start
@@ -75,13 +69,13 @@ Make sure you have the following installed:
 
 Here are some screenshots showing the app's user interface:
 
-![Home Page Screenshot](./src/assets/Quiz%20Game%20-%20Google%20Chrome%202_1_2025%209_56_15%20PM.png)
+![Home Page Screenshot](./src/assets/Quiz%20Game%20-%20Google%20Chrome%202_1_2025%209_56_15%20PM.png) (frontend\src\assets\Quiz Game - Google Chrome 2_1_2025 9_56_36 PM.png)
 
 ### Video Walkthrough:
 
 Watch the app in action in the video below:
 
-[Watch the Video Walkthrough](frontend/src/assets/20250201215700.mp4)
+[Watch the Video Walkthrough](./src/assets/Quiz%20Game%20-%20Google%20Chrome%202_1_2025%209_56_15%20PM.mp4)
 
 If you prefer, you can also download and view the video locally:
 [Download the Video](./src/assets/Quiz%20Game%20-%20Google%20Chrome%202_1_2025%209_56_15%20PM.mp4)

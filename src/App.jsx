@@ -1,6 +1,6 @@
 import React from 'react';
 import Quiz from './components/Quiz';
-import '../src/app.css';
+import '../src/App.css';
 
 const App = () => {
     return (
